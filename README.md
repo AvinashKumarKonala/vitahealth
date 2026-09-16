@@ -1,6 +1,6 @@
 # VitaHealth
 
-Full-stack health & wellness platform — shop products, consult doctors, track health, manage nutrition, and subscribe to care plans.
+A full-stack, no-code health and wellness platform built with Cursor and deployed on Netlify, offering product shopping, doctor consultations, health tracking, nutrition management, and personalized care plans.
 
 ## Stack
 
